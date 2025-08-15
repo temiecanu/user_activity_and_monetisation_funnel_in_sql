@@ -1,0 +1,1001 @@
+st_id,timest,correct,subject
+100379,30/10/21 13:32,true,Theory of probability
+100379,30/10/21 14:11,false,Vizualization
+100379,30/10/21 15:54,true,Theory of probability
+100379,30/10/21 16:44,true,Vizualization
+100379,30/10/21 17:15,true,Theory of probability
+100379,30/10/21 18:02,true,Theory of probability
+100379,30/10/21 18:17,true,Vizualization
+100379,30/10/21 18:32,false,Theory of probability
+100379,30/10/21 19:19,true,Vizualization
+100379,30/10/21 19:28,true,Theory of probability
+100379,30/10/21 20:23,false,Theory of probability
+100379,30/10/21 20:32,true,Theory of probability
+100379,30/10/21 20:58,false,Vizualization
+100379,30/10/21 22:01,true,Theory of probability
+100379,30/10/21 23:00,false,Theory of probability
+100379,30/10/21 23:05,false,Theory of probability
+100379,30/10/21 23:15,true,Vizualization
+100379,30/10/21 23:57,false,Vizualization
+100379,31/10/21 00:26,true,Theory of probability
+100379,31/10/21 00:39,false,Theory of probability
+100379,31/10/21 01:16,false,Vizualization
+100379,31/10/21 01:59,true,Theory of probability
+100379,31/10/21 03:23,false,Theory of probability
+100379,31/10/21 03:45,false,Theory of probability
+100379,31/10/21 03:58,false,Theory of probability
+100379,31/10/21 04:40,true,Vizualization
+100379,31/10/21 04:46,false,Vizualization
+100379,31/10/21 05:37,true,Theory of probability
+100379,31/10/21 06:31,false,Vizualization
+100379,31/10/21 06:57,false,Theory of probability
+100379,31/10/21 07:10,true,Vizualization
+100379,31/10/21 07:18,true,Vizualization
+100379,31/10/21 08:02,true,Vizualization
+100379,31/10/21 09:05,true,Theory of probability
+100379,31/10/21 09:09,false,Theory of probability
+100379,31/10/21 09:15,false,Theory of probability
+100379,31/10/21 09:21,true,Vizualization
+100379,31/10/21 09:34,false,Theory of probability
+100379,31/10/21 10:54,true,Theory of probability
+100379,31/10/21 11:16,true,Vizualization
+100379,31/10/21 11:37,true,Theory of probability
+100379,31/10/21 11:46,false,Theory of probability
+100379,31/10/21 11:48,true,Theory of probability
+100379,31/10/21 12:00,true,Vizualization
+100379,31/10/21 12:28,true,Theory of probability
+100379,31/10/21 12:33,false,Vizualization
+100379,31/10/21 12:51,true,Vizualization
+101432,30/10/21 13:14,true,Theory of probability
+101432,30/10/21 14:04,false,Theory of probability
+101432,30/10/21 16:28,true,Theory of probability
+101432,30/10/21 16:31,true,Theory of probability
+101432,30/10/21 17:14,true,Theory of probability
+101432,30/10/21 18:23,false,Theory of probability
+101432,30/10/21 19:31,true,Theory of probability
+101432,30/10/21 20:48,true,Theory of probability
+101432,30/10/21 20:56,false,Theory of probability
+101432,30/10/21 22:28,false,Theory of probability
+101432,30/10/21 22:42,false,Theory of probability
+101432,30/10/21 22:45,false,Theory of probability
+101432,30/10/21 23:42,false,Theory of probability
+101432,31/10/21 00:49,false,Theory of probability
+101432,31/10/21 01:12,true,Theory of probability
+101432,31/10/21 02:02,true,Theory of probability
+101432,31/10/21 03:24,true,Theory of probability
+101432,31/10/21 04:08,false,Theory of probability
+101432,31/10/21 05:02,false,Theory of probability
+101432,31/10/21 06:28,true,Theory of probability
+101432,31/10/21 08:04,true,Theory of probability
+101432,31/10/21 09:22,false,Theory of probability
+101432,31/10/21 09:25,true,Theory of probability
+101432,31/10/21 10:18,true,Theory of probability
+101432,31/10/21 10:27,false,Theory of probability
+101432,31/10/21 10:50,false,Theory of probability
+101432,31/10/21 12:09,false,Theory of probability
+101432,31/10/21 12:42,true,Theory of probability
+104885,30/10/21 16:51,false,Python
+104885,30/10/21 17:19,true,Python
+104885,30/10/21 18:48,true,Python
+104885,30/10/21 20:24,true,Python
+104885,30/10/21 20:47,true,Statistics
+104885,31/10/21 01:23,true,Statistics
+104885,31/10/21 01:29,false,Python
+104885,31/10/21 02:02,true,Statistics
+104885,31/10/21 02:53,false,Statistics
+104885,31/10/21 12:26,false,Python
+104966,30/10/21 14:43,false,Vizualization
+104966,30/10/21 14:51,true,Vizualization
+104966,30/10/21 15:08,true,Vizualization
+104966,30/10/21 15:15,false,Vizualization
+104966,30/10/21 15:36,false,Vizualization
+104966,30/10/21 15:58,false,Vizualization
+104966,30/10/21 16:55,true,Vizualization
+104966,30/10/21 17:05,true,Statistics
+104966,30/10/21 17:15,false,Vizualization
+104966,30/10/21 17:51,true,Theory of probability
+104966,30/10/21 18:41,true,Statistics
+104966,30/10/21 20:23,false,Statistics
+104966,30/10/21 21:28,true,Statistics
+104966,30/10/21 22:08,false,Vizualization
+104966,30/10/21 22:24,false,Statistics
+104966,30/10/21 22:31,false,Theory of probability
+104966,30/10/21 23:01,true,Vizualization
+104966,30/10/21 23:16,true,Statistics
+104966,30/10/21 23:23,true,Vizualization
+104966,30/10/21 23:35,false,Vizualization
+104966,30/10/21 23:36,false,Vizualization
+104966,30/10/21 23:45,true,Vizualization
+104966,31/10/21 00:04,false,Theory of probability
+104966,31/10/21 01:15,true,Theory of probability
+104966,31/10/21 01:28,true,Theory of probability
+104966,31/10/21 02:01,false,Statistics
+104966,31/10/21 02:02,true,Theory of probability
+104966,31/10/21 02:41,false,Vizualization
+104966,31/10/21 03:12,true,Vizualization
+104966,31/10/21 03:39,true,Vizualization
+104966,31/10/21 03:56,true,Vizualization
+104966,31/10/21 04:12,false,Statistics
+104966,31/10/21 05:18,true,Vizualization
+104966,31/10/21 05:21,true,Vizualization
+104966,31/10/21 05:23,true,Vizualization
+104966,31/10/21 05:27,false,Vizualization
+104966,31/10/21 05:32,false,Theory of probability
+104966,31/10/21 06:00,true,Vizualization
+104966,31/10/21 06:06,true,Theory of probability
+104966,31/10/21 07:27,false,Theory of probability
+104966,31/10/21 07:50,true,Statistics
+104966,31/10/21 08:00,false,Statistics
+104966,31/10/21 08:14,true,Vizualization
+104966,31/10/21 08:16,false,Statistics
+104966,31/10/21 08:27,true,Vizualization
+104966,31/10/21 08:59,false,Vizualization
+104966,31/10/21 12:18,true,Theory of probability
+106464,30/10/21 13:16,false,Math
+106464,30/10/21 13:18,false,Math
+106464,30/10/21 14:34,false,Python
+106464,30/10/21 14:54,false,Python
+106464,30/10/21 15:19,true,Python
+106464,30/10/21 15:25,true,Math
+106464,30/10/21 15:56,false,Python
+106464,30/10/21 16:02,false,Math
+106464,30/10/21 16:38,true,Math
+106464,30/10/21 16:50,true,Python
+106464,30/10/21 17:27,false,Python
+106464,30/10/21 18:30,false,Math
+106464,30/10/21 19:14,true,Python
+106464,30/10/21 20:40,true,Python
+106464,30/10/21 20:54,true,Python
+106464,30/10/21 21:03,true,Math
+106464,30/10/21 21:11,false,Python
+106464,30/10/21 21:14,true,Math
+106464,30/10/21 21:20,true,Python
+106464,30/10/21 21:29,true,Math
+106464,30/10/21 21:58,false,Python
+106464,30/10/21 22:22,false,Math
+106464,30/10/21 22:34,true,Python
+106464,30/10/21 23:48,true,Math
+106464,30/10/21 23:49,true,Math
+106464,30/10/21 23:58,false,Math
+106464,31/10/21 00:50,true,Python
+106464,31/10/21 01:08,false,Python
+106464,31/10/21 02:06,false,Math
+106464,31/10/21 02:49,true,Python
+106464,31/10/21 03:09,true,Python
+106464,31/10/21 03:36,false,Math
+106464,31/10/21 04:05,false,Python
+106464,31/10/21 05:02,false,Python
+106464,31/10/21 05:16,false,Python
+106464,31/10/21 05:38,false,Python
+106464,31/10/21 05:57,true,Python
+106464,31/10/21 06:01,true,Python
+106464,31/10/21 07:01,true,Math
+106464,31/10/21 07:30,true,Python
+106464,31/10/21 07:32,true,Math
+106464,31/10/21 07:44,false,Python
+106464,31/10/21 08:05,true,Math
+106464,31/10/21 09:10,true,Math
+106464,31/10/21 09:18,false,Math
+106464,31/10/21 09:41,false,Math
+106464,31/10/21 09:46,true,Math
+106464,31/10/21 10:15,true,Math
+106464,31/10/21 10:48,false,Math
+106464,31/10/21 10:51,true,Math
+106464,31/10/21 10:54,true,Python
+106464,31/10/21 11:45,false,Math
+106464,31/10/21 11:52,true,Math
+106464,31/10/21 12:08,false,Math
+106464,31/10/21 12:44,true,Math
+106464,31/10/21 12:59,false,Math
+111336,30/10/21 13:32,true,Statistics
+111336,30/10/21 13:44,false,Math
+111336,30/10/21 14:27,true,Statistics
+111336,30/10/21 14:31,false,Math
+111336,30/10/21 14:43,true,Math
+111336,30/10/21 14:59,true,Math
+111336,30/10/21 15:18,true,Math
+111336,30/10/21 16:16,false,Math
+111336,30/10/21 16:18,true,Statistics
+111336,30/10/21 17:09,true,Statistics
+111336,30/10/21 18:07,true,Math
+111336,30/10/21 18:10,true,Math
+111336,30/10/21 18:13,false,Math
+111336,30/10/21 19:06,true,Statistics
+111336,30/10/21 20:20,false,Statistics
+111336,30/10/21 22:20,false,Math
+111336,30/10/21 22:22,false,Math
+111336,30/10/21 22:50,true,Statistics
+111336,31/10/21 00:25,true,Math
+111336,31/10/21 00:32,true,Math
+111336,31/10/21 01:00,false,Math
+111336,31/10/21 01:36,false,Math
+111336,31/10/21 02:28,true,Math
+111336,31/10/21 02:39,false,Math
+111336,31/10/21 03:12,false,Math
+111336,31/10/21 03:27,true,Statistics
+111336,31/10/21 03:45,false,Math
+111336,31/10/21 04:05,false,Math
+111336,31/10/21 05:11,false,Math
+111336,31/10/21 05:18,false,Math
+111336,31/10/21 05:48,true,Statistics
+111336,31/10/21 06:17,false,Math
+111336,31/10/21 08:11,true,Math
+111336,31/10/21 09:10,true,Statistics
+111336,31/10/21 12:29,true,Math
+114606,30/10/21 17:09,true,Python
+114606,31/10/21 00:26,false,Python
+114606,31/10/21 00:32,true,Python
+114606,31/10/21 07:12,false,Python
+114606,31/10/21 09:59,true,Python
+114606,31/10/21 10:47,false,Python
+11503,30/10/21 15:34,true,Python
+11503,30/10/21 17:19,true,Python
+11503,30/10/21 18:14,false,Python
+11503,30/10/21 18:28,false,Python
+11503,30/10/21 19:14,false,Python
+11503,30/10/21 22:47,true,Python
+11503,31/10/21 00:34,true,Python
+11503,31/10/21 02:06,false,Python
+11503,31/10/21 03:07,false,Python
+11503,31/10/21 04:14,true,Python
+11503,31/10/21 05:49,false,Python
+11503,31/10/21 12:07,false,Python
+11503,31/10/21 12:38,true,Python
+11503,31/10/21 12:56,true,Python
+126555,30/10/21 13:52,true,Statistics
+126555,30/10/21 14:35,false,Statistics
+126555,30/10/21 15:12,false,Statistics
+126555,30/10/21 15:53,false,Statistics
+126555,30/10/21 16:16,false,Statistics
+126555,30/10/21 17:34,false,Statistics
+126555,30/10/21 17:59,true,Statistics
+126555,30/10/21 18:13,false,Statistics
+126555,30/10/21 18:37,false,Statistics
+126555,30/10/21 20:07,true,Statistics
+126555,30/10/21 20:29,true,Statistics
+126555,30/10/21 21:39,false,Statistics
+126555,31/10/21 01:11,false,Statistics
+126555,31/10/21 02:48,false,Statistics
+126555,31/10/21 03:25,true,Statistics
+126555,31/10/21 03:33,false,Statistics
+126555,31/10/21 03:42,false,Statistics
+126555,31/10/21 04:58,true,Statistics
+126555,31/10/21 04:59,true,Statistics
+126555,31/10/21 05:15,true,Statistics
+126555,31/10/21 05:19,false,Statistics
+126555,31/10/21 06:00,true,Statistics
+126555,31/10/21 06:30,false,Statistics
+126555,31/10/21 06:38,true,Statistics
+126555,31/10/21 06:55,false,Statistics
+126555,31/10/21 07:39,false,Statistics
+126555,31/10/21 09:00,false,Statistics
+126555,31/10/21 10:38,false,Statistics
+126555,31/10/21 11:14,false,Statistics
+126555,31/10/21 11:17,true,Statistics
+126555,31/10/21 11:29,false,Statistics
+126555,31/10/21 12:00,true,Statistics
+126555,31/10/21 12:26,false,Statistics
+12803,30/10/21 13:12,true,Vizualization
+12803,30/10/21 13:20,false,Theory of probability
+12803,30/10/21 14:00,false,Vizualization
+12803,30/10/21 14:17,true,Python
+12803,30/10/21 14:30,false,Python
+12803,30/10/21 14:34,true,Vizualization
+12803,30/10/21 14:43,true,Vizualization
+12803,30/10/21 14:54,false,Vizualization
+12803,30/10/21 14:54,true,Vizualization
+12803,30/10/21 15:24,false,Python
+12803,30/10/21 15:40,false,Theory of probability
+12803,30/10/21 15:59,true,Vizualization
+12803,30/10/21 16:13,true,Theory of probability
+12803,30/10/21 16:36,true,Vizualization
+12803,30/10/21 16:41,true,Vizualization
+12803,30/10/21 16:49,true,Theory of probability
+12803,30/10/21 16:54,false,Python
+12803,30/10/21 17:01,false,Vizualization
+12803,30/10/21 17:09,true,Vizualization
+12803,30/10/21 17:13,true,Python
+12803,30/10/21 17:14,true,Vizualization
+12803,30/10/21 17:25,true,Theory of probability
+12803,30/10/21 17:29,false,Vizualization
+12803,30/10/21 17:29,true,Vizualization
+12803,30/10/21 17:38,true,Vizualization
+12803,30/10/21 18:24,true,Python
+12803,30/10/21 18:30,true,Theory of probability
+12803,30/10/21 18:47,false,Vizualization
+12803,30/10/21 19:18,true,Python
+12803,30/10/21 19:34,false,Vizualization
+12803,30/10/21 19:36,false,Vizualization
+12803,30/10/21 19:39,true,Vizualization
+12803,30/10/21 19:47,true,Vizualization
+12803,30/10/21 20:10,false,Python
+12803,30/10/21 20:35,true,Theory of probability
+12803,30/10/21 20:42,true,Vizualization
+12803,30/10/21 20:51,false,Vizualization
+12803,30/10/21 21:13,true,Vizualization
+12803,30/10/21 21:14,true,Theory of probability
+12803,30/10/21 21:31,true,Python
+12803,30/10/21 21:47,false,Python
+12803,30/10/21 21:49,true,Theory of probability
+12803,30/10/21 21:53,true,Vizualization
+12803,30/10/21 21:57,true,Theory of probability
+12803,30/10/21 22:18,true,Vizualization
+12803,30/10/21 22:44,true,Python
+12803,30/10/21 22:48,false,Theory of probability
+12803,30/10/21 22:51,true,Vizualization
+12803,30/10/21 23:04,false,Theory of probability
+12803,30/10/21 23:08,false,Vizualization
+12803,30/10/21 23:28,false,Vizualization
+12803,31/10/21 00:02,true,Vizualization
+12803,31/10/21 00:02,false,Vizualization
+12803,31/10/21 00:05,true,Vizualization
+12803,31/10/21 01:05,false,Theory of probability
+12803,31/10/21 01:33,true,Python
+12803,31/10/21 02:02,true,Python
+12803,31/10/21 02:02,false,Python
+12803,31/10/21 02:25,true,Theory of probability
+12803,31/10/21 02:42,true,Theory of probability
+12803,31/10/21 02:45,true,Vizualization
+12803,31/10/21 03:03,true,Python
+12803,31/10/21 03:34,true,Vizualization
+12803,31/10/21 03:54,false,Vizualization
+12803,31/10/21 04:09,true,Python
+12803,31/10/21 04:20,true,Vizualization
+12803,31/10/21 04:22,true,Python
+12803,31/10/21 04:36,true,Vizualization
+12803,31/10/21 05:17,false,Theory of probability
+12803,31/10/21 05:26,false,Python
+12803,31/10/21 05:31,false,Vizualization
+12803,31/10/21 05:50,true,Python
+12803,31/10/21 05:53,true,Vizualization
+12803,31/10/21 06:21,false,Vizualization
+12803,31/10/21 06:41,false,Vizualization
+12803,31/10/21 06:41,true,Vizualization
+12803,31/10/21 06:50,true,Python
+12803,31/10/21 06:57,true,Vizualization
+12803,31/10/21 07:47,true,Python
+12803,31/10/21 07:51,true,Theory of probability
+12803,31/10/21 08:01,true,Vizualization
+12803,31/10/21 08:18,false,Vizualization
+12803,31/10/21 09:13,true,Vizualization
+12803,31/10/21 09:21,false,Python
+12803,31/10/21 09:56,true,Python
+12803,31/10/21 10:17,true,Python
+12803,31/10/21 10:35,true,Vizualization
+12803,31/10/21 10:43,true,Python
+12803,31/10/21 10:57,true,Vizualization
+12803,31/10/21 11:15,false,Vizualization
+12803,31/10/21 11:18,false,Python
+12803,31/10/21 11:18,false,Theory of probability
+12803,31/10/21 11:24,true,Theory of probability
+12803,31/10/21 11:43,true,Vizualization
+12803,31/10/21 11:57,false,Python
+12803,31/10/21 12:06,false,Python
+12803,31/10/21 12:17,true,Python
+12803,31/10/21 12:19,false,Vizualization
+128371,30/10/21 13:30,true,Math
+128371,30/10/21 13:47,true,Math
+128371,30/10/21 16:28,true,Math
+128371,30/10/21 17:54,false,Math
+128371,30/10/21 18:13,true,Math
+128371,30/10/21 19:33,false,Math
+128371,30/10/21 19:44,true,Math
+128371,30/10/21 20:21,true,Math
+128371,30/10/21 21:02,true,Math
+128371,30/10/21 21:15,true,Math
+128371,30/10/21 21:29,false,Math
+128371,30/10/21 22:22,false,Math
+128371,30/10/21 22:54,true,Math
+128371,30/10/21 22:56,true,Math
+128371,31/10/21 00:13,false,Math
+128371,31/10/21 00:42,true,Math
+128371,31/10/21 01:19,true,Math
+128371,31/10/21 02:01,true,Math
+128371,31/10/21 02:46,true,Math
+128371,31/10/21 03:59,true,Math
+128371,31/10/21 04:26,false,Math
+128371,31/10/21 04:27,false,Math
+128371,31/10/21 05:08,false,Math
+128371,31/10/21 08:03,true,Math
+128371,31/10/21 08:39,true,Math
+128371,31/10/21 09:41,true,Math
+128371,31/10/21 10:03,false,Math
+128371,31/10/21 10:05,true,Math
+128371,31/10/21 11:07,true,Math
+128371,31/10/21 12:58,true,Math
+138355,30/10/21 14:10,true,Vizualization
+138355,30/10/21 16:02,false,Vizualization
+138355,30/10/21 19:10,true,Vizualization
+138355,30/10/21 19:15,true,Vizualization
+138355,30/10/21 20:35,true,Vizualization
+138355,30/10/21 22:50,false,Vizualization
+138355,30/10/21 23:56,false,Vizualization
+138355,31/10/21 07:36,false,Vizualization
+138355,31/10/21 11:41,false,Vizualization
+139814,30/10/21 14:53,false,Math
+139814,30/10/21 15:01,true,Math
+139814,30/10/21 15:10,false,Math
+139814,30/10/21 15:36,true,Math
+139814,30/10/21 16:38,false,Math
+139814,30/10/21 17:14,false,Math
+139814,30/10/21 17:19,true,Math
+139814,30/10/21 17:54,false,Math
+139814,30/10/21 18:00,true,Math
+139814,30/10/21 18:37,false,Math
+139814,30/10/21 18:49,false,Math
+139814,30/10/21 19:13,false,Math
+139814,30/10/21 19:39,true,Math
+139814,30/10/21 20:48,false,Math
+139814,30/10/21 21:16,false,Math
+139814,30/10/21 21:44,false,Math
+139814,30/10/21 21:59,true,Math
+139814,30/10/21 22:17,false,Math
+139814,30/10/21 22:40,true,Math
+139814,30/10/21 23:06,true,Math
+139814,31/10/21 00:16,false,Math
+139814,31/10/21 00:41,true,Math
+139814,31/10/21 00:41,false,Math
+139814,31/10/21 00:52,true,Math
+139814,31/10/21 00:54,true,Math
+139814,31/10/21 00:55,true,Math
+139814,31/10/21 01:04,true,Math
+139814,31/10/21 02:15,false,Math
+139814,31/10/21 02:19,false,Math
+139814,31/10/21 02:22,false,Math
+139814,31/10/21 02:26,true,Math
+139814,31/10/21 02:53,false,Math
+139814,31/10/21 03:14,false,Math
+139814,31/10/21 05:24,false,Math
+139814,31/10/21 06:34,false,Math
+139814,31/10/21 07:32,true,Math
+139814,31/10/21 08:23,false,Math
+139814,31/10/21 08:31,true,Math
+139814,31/10/21 08:54,true,Math
+139814,31/10/21 09:21,false,Math
+139814,31/10/21 09:50,true,Math
+139814,31/10/21 10:13,false,Math
+139814,31/10/21 10:21,false,Math
+139814,31/10/21 10:45,false,Math
+139814,31/10/21 12:13,false,Math
+140120,30/10/21 13:03,true,Vizualization
+140120,30/10/21 13:33,false,Vizualization
+140120,30/10/21 13:40,false,Vizualization
+140120,30/10/21 13:59,true,Statistics
+140120,30/10/21 14:07,false,Statistics
+140120,30/10/21 14:11,true,Statistics
+140120,30/10/21 14:14,true,Vizualization
+140120,30/10/21 15:59,true,Statistics
+140120,30/10/21 16:02,true,Vizualization
+140120,30/10/21 16:07,false,Statistics
+140120,30/10/21 18:06,true,Statistics
+140120,30/10/21 18:39,false,Statistics
+140120,30/10/21 18:49,false,Statistics
+140120,30/10/21 19:09,false,Statistics
+140120,30/10/21 19:09,false,Vizualization
+140120,30/10/21 19:10,false,Vizualization
+140120,30/10/21 19:32,true,Vizualization
+140120,30/10/21 20:01,false,Vizualization
+140120,30/10/21 20:03,false,Vizualization
+140120,30/10/21 20:31,true,Vizualization
+140120,30/10/21 20:57,false,Statistics
+140120,30/10/21 21:17,true,Statistics
+140120,30/10/21 21:59,true,Vizualization
+140120,30/10/21 22:41,false,Statistics
+140120,31/10/21 00:16,false,Vizualization
+140120,31/10/21 00:20,false,Vizualization
+140120,31/10/21 00:27,true,Statistics
+140120,31/10/21 01:02,false,Statistics
+140120,31/10/21 01:36,false,Vizualization
+140120,31/10/21 02:41,true,Vizualization
+140120,31/10/21 02:58,true,Statistics
+140120,31/10/21 03:32,false,Statistics
+140120,31/10/21 03:58,false,Statistics
+140120,31/10/21 04:01,false,Vizualization
+140120,31/10/21 04:10,false,Statistics
+140120,31/10/21 04:13,true,Vizualization
+140120,31/10/21 04:31,false,Statistics
+140120,31/10/21 04:59,true,Vizualization
+140120,31/10/21 05:04,false,Vizualization
+140120,31/10/21 05:05,false,Statistics
+140120,31/10/21 05:27,true,Statistics
+140120,31/10/21 05:37,true,Vizualization
+140120,31/10/21 06:07,false,Vizualization
+140120,31/10/21 06:15,false,Vizualization
+140120,31/10/21 06:27,true,Vizualization
+140120,31/10/21 06:42,false,Statistics
+140120,31/10/21 06:59,true,Vizualization
+140120,31/10/21 06:59,true,Vizualization
+140120,31/10/21 07:03,false,Statistics
+140120,31/10/21 07:18,true,Vizualization
+140120,31/10/21 08:03,true,Statistics
+140120,31/10/21 08:10,true,Vizualization
+140120,31/10/21 08:51,false,Vizualization
+140120,31/10/21 09:04,true,Vizualization
+140120,31/10/21 09:08,false,Statistics
+140120,31/10/21 09:32,false,Statistics
+140120,31/10/21 09:35,false,Vizualization
+140120,31/10/21 09:44,true,Statistics
+140120,31/10/21 09:55,true,Vizualization
+140120,31/10/21 10:10,true,Statistics
+140120,31/10/21 10:13,true,Statistics
+140120,31/10/21 10:18,true,Statistics
+140120,31/10/21 10:20,true,Vizualization
+140120,31/10/21 11:30,true,Statistics
+140120,31/10/21 11:33,false,Vizualization
+140120,31/10/21 11:35,true,Vizualization
+140120,31/10/21 12:33,false,Vizualization
+141573,30/10/21 13:02,false,Theory of probability
+141573,30/10/21 13:32,false,Python
+141573,30/10/21 13:50,true,Python
+141573,30/10/21 13:55,false,Theory of probability
+141573,30/10/21 14:08,true,Theory of probability
+141573,30/10/21 14:20,true,Theory of probability
+141573,30/10/21 14:37,false,Python
+141573,30/10/21 14:53,true,Python
+141573,30/10/21 15:00,false,Python
+141573,30/10/21 15:51,true,Theory of probability
+141573,30/10/21 16:00,false,Theory of probability
+141573,30/10/21 16:02,false,Theory of probability
+141573,30/10/21 16:09,false,Python
+141573,30/10/21 16:53,false,Theory of probability
+141573,30/10/21 17:31,true,Python
+141573,30/10/21 17:58,true,Python
+141573,30/10/21 18:02,false,Theory of probability
+141573,30/10/21 18:11,true,Theory of probability
+141573,30/10/21 18:14,true,Python
+141573,30/10/21 18:19,false,Theory of probability
+141573,30/10/21 18:46,true,Theory of probability
+141573,30/10/21 18:53,false,Theory of probability
+141573,30/10/21 19:25,true,Python
+141573,30/10/21 19:48,true,Theory of probability
+141573,30/10/21 20:01,false,Theory of probability
+141573,30/10/21 20:39,true,Theory of probability
+141573,30/10/21 21:11,true,Python
+141573,30/10/21 21:16,false,Theory of probability
+141573,30/10/21 21:21,true,Python
+141573,30/10/21 21:25,false,Theory of probability
+141573,30/10/21 21:40,false,Python
+141573,30/10/21 21:48,false,Theory of probability
+141573,30/10/21 22:10,true,Theory of probability
+141573,30/10/21 22:36,false,Python
+141573,30/10/21 22:54,true,Theory of probability
+141573,30/10/21 23:07,false,Python
+141573,30/10/21 23:35,true,Theory of probability
+141573,30/10/21 23:56,true,Python
+141573,31/10/21 00:00,true,Theory of probability
+141573,31/10/21 00:21,true,Python
+141573,31/10/21 00:33,true,Theory of probability
+141573,31/10/21 00:37,true,Python
+141573,31/10/21 01:23,false,Python
+141573,31/10/21 01:30,false,Theory of probability
+141573,31/10/21 01:31,false,Python
+141573,31/10/21 01:35,true,Python
+141573,31/10/21 01:52,false,Theory of probability
+141573,31/10/21 02:14,true,Theory of probability
+141573,31/10/21 02:36,true,Theory of probability
+141573,31/10/21 03:13,true,Python
+141573,31/10/21 03:13,false,Python
+141573,31/10/21 03:15,false,Python
+141573,31/10/21 04:08,false,Theory of probability
+141573,31/10/21 05:59,false,Theory of probability
+141573,31/10/21 06:18,true,Theory of probability
+141573,31/10/21 07:36,false,Python
+141573,31/10/21 07:43,true,Python
+141573,31/10/21 08:15,false,Python
+141573,31/10/21 08:23,true,Theory of probability
+141573,31/10/21 08:37,true,Theory of probability
+141573,31/10/21 08:45,true,Theory of probability
+141573,31/10/21 10:28,false,Theory of probability
+141573,31/10/21 11:37,true,Python
+141573,31/10/21 11:55,false,Python
+141573,31/10/21 11:58,true,Python
+141573,31/10/21 12:33,false,Python
+141573,31/10/21 12:51,true,Theory of probability
+141573,31/10/21 12:55,false,Python
+143303,30/10/21 13:05,true,Math
+143303,30/10/21 16:31,true,Math
+143303,30/10/21 18:04,false,Math
+143303,30/10/21 19:08,false,Math
+143303,30/10/21 22:27,false,Math
+143303,31/10/21 03:07,true,Math
+143303,31/10/21 04:12,true,Math
+143303,31/10/21 08:02,false,Math
+143303,31/10/21 11:18,false,Math
+143303,31/10/21 12:18,true,Math
+144896,30/10/21 15:27,true,Python
+144896,30/10/21 18:25,false,Python
+144896,30/10/21 21:10,true,Python
+144896,31/10/21 01:32,false,Python
+144896,31/10/21 03:16,true,Python
+144896,31/10/21 04:12,true,Python
+144896,31/10/21 04:28,false,Python
+144896,31/10/21 05:03,true,Python
+144896,31/10/21 08:10,false,Python
+144896,31/10/21 10:44,true,Python
+144896,31/10/21 12:45,true,Python
+147316,30/10/21 13:23,true,Statistics
+147316,30/10/21 14:34,false,Statistics
+147316,30/10/21 15:55,false,Statistics
+147316,30/10/21 15:59,false,Statistics
+147316,30/10/21 16:07,false,Statistics
+147316,30/10/21 19:49,true,Statistics
+147316,30/10/21 20:01,true,Statistics
+147316,30/10/21 20:18,false,Statistics
+147316,30/10/21 20:28,true,Statistics
+147316,30/10/21 22:08,true,Statistics
+147316,30/10/21 22:28,true,Statistics
+147316,30/10/21 22:59,false,Statistics
+147316,30/10/21 23:29,false,Statistics
+147316,30/10/21 23:32,false,Statistics
+147316,31/10/21 00:14,true,Statistics
+147316,31/10/21 00:58,true,Statistics
+147316,31/10/21 03:04,true,Statistics
+147316,31/10/21 03:59,false,Statistics
+147316,31/10/21 04:04,true,Statistics
+147316,31/10/21 04:30,true,Statistics
+147316,31/10/21 04:47,false,Statistics
+147316,31/10/21 05:43,true,Statistics
+147316,31/10/21 06:48,true,Statistics
+147316,31/10/21 07:29,true,Statistics
+147316,31/10/21 07:45,false,Statistics
+147316,31/10/21 08:24,true,Statistics
+147316,31/10/21 09:00,true,Statistics
+147316,31/10/21 09:10,true,Statistics
+147316,31/10/21 09:25,true,Statistics
+147316,31/10/21 10:06,true,Statistics
+147316,31/10/21 11:22,false,Statistics
+147316,31/10/21 11:35,true,Statistics
+147316,31/10/21 11:38,false,Statistics
+147316,31/10/21 11:48,false,Statistics
+149095,30/10/21 13:13,false,Python
+149095,30/10/21 13:17,true,Python
+149095,30/10/21 13:33,true,Python
+149095,30/10/21 13:45,false,Python
+149095,30/10/21 14:46,true,Python
+149095,30/10/21 15:37,true,Python
+149095,30/10/21 18:26,true,Python
+149095,31/10/21 00:31,true,Python
+149095,31/10/21 00:43,true,Python
+149095,31/10/21 01:43,false,Python
+149095,31/10/21 03:03,false,Python
+149095,31/10/21 04:23,true,Python
+149095,31/10/21 07:36,false,Python
+149095,31/10/21 08:46,true,Python
+149351,30/10/21 13:03,false,Theory of probability
+149351,30/10/21 14:23,false,Theory of probability
+149351,30/10/21 17:13,false,Theory of probability
+149351,30/10/21 17:48,true,Theory of probability
+149351,30/10/21 17:54,true,Theory of probability
+149351,30/10/21 19:24,true,Theory of probability
+149351,30/10/21 19:25,true,Theory of probability
+149351,30/10/21 19:54,true,Theory of probability
+149351,30/10/21 20:03,false,Theory of probability
+149351,30/10/21 20:29,true,Theory of probability
+149351,30/10/21 20:51,false,Theory of probability
+149351,30/10/21 21:08,true,Theory of probability
+149351,30/10/21 21:37,true,Theory of probability
+149351,30/10/21 21:49,false,Theory of probability
+149351,30/10/21 23:49,true,Theory of probability
+149351,31/10/21 00:34,false,Theory of probability
+149351,31/10/21 01:06,true,Theory of probability
+149351,31/10/21 01:24,false,Theory of probability
+149351,31/10/21 01:33,false,Theory of probability
+149351,31/10/21 02:56,false,Theory of probability
+149351,31/10/21 03:49,true,Theory of probability
+149351,31/10/21 04:30,true,Theory of probability
+149351,31/10/21 06:54,false,Theory of probability
+149351,31/10/21 09:31,false,Theory of probability
+149351,31/10/21 09:44,true,Theory of probability
+149351,31/10/21 10:57,true,Theory of probability
+149351,31/10/21 12:10,true,Theory of probability
+16205,30/10/21 13:27,true,Vizualization
+16205,30/10/21 14:00,true,Vizualization
+16205,30/10/21 14:03,false,Vizualization
+16205,30/10/21 15:39,true,Vizualization
+16205,30/10/21 17:04,true,Vizualization
+16205,30/10/21 17:42,true,Vizualization
+16205,30/10/21 18:04,true,Vizualization
+16205,30/10/21 18:59,false,Vizualization
+16205,30/10/21 20:43,false,Vizualization
+16205,30/10/21 22:09,false,Vizualization
+16205,30/10/21 23:09,false,Vizualization
+16205,30/10/21 23:41,false,Vizualization
+16205,31/10/21 00:32,true,Vizualization
+16205,31/10/21 02:12,false,Vizualization
+16205,31/10/21 02:42,false,Vizualization
+16205,31/10/21 03:02,true,Vizualization
+16205,31/10/21 03:22,true,Vizualization
+16205,31/10/21 04:01,true,Vizualization
+16205,31/10/21 04:44,true,Vizualization
+16205,31/10/21 05:06,true,Vizualization
+16205,31/10/21 05:40,true,Vizualization
+16205,31/10/21 05:53,true,Vizualization
+16205,31/10/21 10:00,false,Vizualization
+16205,31/10/21 12:16,true,Vizualization
+171209,30/10/21 13:03,true,Statistics
+171209,30/10/21 13:15,false,Statistics
+171209,30/10/21 13:31,false,Statistics
+171209,30/10/21 13:47,true,Statistics
+171209,30/10/21 14:05,false,Statistics
+171209,30/10/21 14:57,false,Statistics
+171209,30/10/21 15:52,true,Statistics
+171209,30/10/21 16:03,true,Statistics
+171209,30/10/21 16:11,true,Statistics
+171209,30/10/21 16:50,false,Statistics
+171209,30/10/21 17:53,true,Statistics
+171209,30/10/21 18:02,false,Statistics
+171209,30/10/21 20:11,false,Statistics
+171209,30/10/21 20:43,true,Statistics
+171209,30/10/21 21:19,false,Statistics
+171209,30/10/21 21:28,true,Statistics
+171209,30/10/21 21:34,true,Statistics
+171209,30/10/21 21:56,true,Statistics
+171209,30/10/21 22:42,true,Statistics
+171209,30/10/21 22:51,true,Statistics
+171209,30/10/21 23:01,false,Statistics
+171209,30/10/21 23:04,false,Statistics
+171209,30/10/21 23:08,true,Statistics
+171209,30/10/21 23:09,true,Statistics
+171209,30/10/21 23:15,true,Statistics
+171209,30/10/21 23:36,true,Statistics
+171209,30/10/21 23:44,false,Statistics
+171209,31/10/21 00:51,false,Statistics
+171209,31/10/21 01:02,false,Statistics
+171209,31/10/21 01:04,false,Statistics
+171209,31/10/21 01:31,false,Statistics
+171209,31/10/21 01:42,false,Statistics
+171209,31/10/21 02:52,false,Statistics
+171209,31/10/21 04:53,true,Statistics
+171209,31/10/21 05:13,true,Statistics
+171209,31/10/21 05:14,false,Statistics
+171209,31/10/21 05:34,false,Statistics
+171209,31/10/21 06:15,false,Statistics
+171209,31/10/21 08:19,true,Statistics
+171209,31/10/21 08:30,true,Statistics
+171209,31/10/21 08:34,true,Statistics
+171209,31/10/21 10:40,true,Statistics
+171209,31/10/21 10:53,true,Statistics
+171209,31/10/21 11:04,false,Statistics
+171209,31/10/21 11:10,false,Statistics
+171209,31/10/21 11:13,false,Statistics
+171209,31/10/21 11:35,true,Statistics
+171209,31/10/21 12:09,false,Statistics
+171209,31/10/21 12:14,true,Statistics
+171209,31/10/21 12:42,true,Statistics
+177064,30/10/21 13:16,true,Vizualization
+177064,30/10/21 13:29,false,Vizualization
+177064,30/10/21 13:34,false,Statistics
+177064,30/10/21 13:51,true,Vizualization
+177064,30/10/21 14:31,false,Vizualization
+177064,30/10/21 14:54,true,Vizualization
+177064,30/10/21 15:51,false,Vizualization
+177064,30/10/21 15:54,true,Vizualization
+177064,30/10/21 16:17,true,Vizualization
+177064,30/10/21 19:45,false,Vizualization
+177064,30/10/21 20:43,true,Vizualization
+177064,30/10/21 20:45,false,Statistics
+177064,30/10/21 20:53,true,Vizualization
+177064,30/10/21 21:09,true,Vizualization
+177064,30/10/21 21:25,false,Vizualization
+177064,30/10/21 22:06,true,Vizualization
+177064,30/10/21 23:06,false,Vizualization
+177064,30/10/21 23:06,true,Vizualization
+177064,30/10/21 23:12,false,Statistics
+177064,31/10/21 00:14,true,Statistics
+177064,31/10/21 00:27,false,Statistics
+177064,31/10/21 01:01,true,Statistics
+177064,31/10/21 01:03,true,Vizualization
+177064,31/10/21 01:11,false,Vizualization
+177064,31/10/21 02:35,true,Statistics
+177064,31/10/21 02:45,false,Vizualization
+177064,31/10/21 02:46,true,Statistics
+177064,31/10/21 03:31,true,Vizualization
+177064,31/10/21 04:05,false,Vizualization
+177064,31/10/21 04:19,true,Vizualization
+177064,31/10/21 04:42,false,Vizualization
+177064,31/10/21 04:50,true,Statistics
+177064,31/10/21 05:00,false,Vizualization
+177064,31/10/21 05:21,false,Vizualization
+177064,31/10/21 05:35,true,Vizualization
+177064,31/10/21 06:01,false,Vizualization
+177064,31/10/21 07:41,true,Vizualization
+177064,31/10/21 07:50,false,Vizualization
+177064,31/10/21 08:33,true,Statistics
+177064,31/10/21 08:42,false,Vizualization
+177064,31/10/21 10:10,true,Vizualization
+177064,31/10/21 10:45,true,Vizualization
+177064,31/10/21 11:36,false,Vizualization
+177064,31/10/21 12:30,true,Vizualization
+177064,31/10/21 12:38,false,Vizualization
+193915,30/10/21 13:39,true,Theory of probability
+193915,30/10/21 13:39,false,Theory of probability
+193915,30/10/21 13:57,false,Theory of probability
+193915,30/10/21 14:14,false,Theory of probability
+193915,30/10/21 14:15,true,Theory of probability
+193915,30/10/21 15:00,false,Statistics
+193915,30/10/21 15:09,true,Theory of probability
+193915,30/10/21 15:40,false,Theory of probability
+193915,30/10/21 15:44,true,Theory of probability
+193915,30/10/21 16:02,true,Theory of probability
+193915,30/10/21 17:23,false,Theory of probability
+193915,30/10/21 17:30,true,Theory of probability
+193915,30/10/21 18:12,false,Theory of probability
+193915,30/10/21 19:04,true,Theory of probability
+193915,30/10/21 20:18,true,Theory of probability
+193915,30/10/21 20:40,true,Theory of probability
+193915,30/10/21 20:57,true,Theory of probability
+193915,30/10/21 21:55,false,Theory of probability
+193915,30/10/21 22:08,false,Theory of probability
+193915,30/10/21 22:43,false,Theory of probability
+193915,30/10/21 23:50,false,Theory of probability
+193915,31/10/21 00:49,true,Theory of probability
+193915,31/10/21 01:00,true,Theory of probability
+193915,31/10/21 01:07,true,Theory of probability
+193915,31/10/21 03:20,false,Theory of probability
+193915,31/10/21 03:34,false,Statistics
+193915,31/10/21 04:13,false,Theory of probability
+193915,31/10/21 04:18,true,Theory of probability
+193915,31/10/21 04:21,false,Theory of probability
+193915,31/10/21 04:47,true,Theory of probability
+193915,31/10/21 07:04,true,Theory of probability
+193915,31/10/21 07:45,true,Theory of probability
+193915,31/10/21 08:08,false,Theory of probability
+193915,31/10/21 08:21,false,Theory of probability
+193915,31/10/21 10:50,false,Theory of probability
+193915,31/10/21 11:01,true,Theory of probability
+193915,31/10/21 12:16,false,Theory of probability
+193915,31/10/21 12:48,false,Theory of probability
+195262,30/10/21 15:31,true,Python
+195262,30/10/21 15:40,true,Python
+195262,30/10/21 17:34,false,Python
+195262,30/10/21 19:35,true,Python
+195262,30/10/21 20:03,false,Statistics
+195262,30/10/21 21:02,true,Python
+195262,30/10/21 21:06,true,Python
+195262,30/10/21 22:52,false,Statistics
+195262,31/10/21 01:21,false,Python
+195262,31/10/21 01:48,true,Statistics
+195262,31/10/21 02:49,false,Statistics
+195262,31/10/21 03:04,false,Python
+195262,31/10/21 03:43,true,Python
+195262,31/10/21 04:30,false,Statistics
+195262,31/10/21 05:13,false,Python
+195262,31/10/21 06:31,true,Python
+195262,31/10/21 08:20,false,Statistics
+195262,31/10/21 10:20,false,Statistics
+195262,31/10/21 11:15,true,Python
+195262,31/10/21 12:03,false,Python
+198075,30/10/21 13:44,false,Vizualization
+198075,30/10/21 13:56,false,Statistics
+198075,30/10/21 15:40,false,Vizualization
+198075,30/10/21 16:19,false,Vizualization
+198075,30/10/21 17:08,false,Statistics
+198075,30/10/21 17:17,false,Vizualization
+198075,30/10/21 17:43,true,Vizualization
+198075,30/10/21 18:10,true,Statistics
+198075,30/10/21 18:13,true,Statistics
+198075,30/10/21 18:23,true,Vizualization
+198075,30/10/21 19:28,false,Vizualization
+198075,30/10/21 19:30,true,Statistics
+198075,30/10/21 20:04,false,Statistics
+198075,30/10/21 20:45,true,Statistics
+198075,30/10/21 21:17,false,Statistics
+198075,30/10/21 21:42,false,Statistics
+198075,30/10/21 22:28,true,Vizualization
+198075,30/10/21 22:39,false,Vizualization
+198075,30/10/21 22:43,true,Statistics
+198075,30/10/21 23:30,false,Statistics
+198075,30/10/21 23:36,false,Statistics
+198075,30/10/21 23:59,true,Statistics
+198075,31/10/21 01:42,false,Vizualization
+198075,31/10/21 03:35,true,Statistics
+198075,31/10/21 05:01,true,Statistics
+198075,31/10/21 05:04,false,Statistics
+198075,31/10/21 05:14,true,Statistics
+198075,31/10/21 05:32,true,Statistics
+198075,31/10/21 05:36,true,Statistics
+198075,31/10/21 05:57,false,Vizualization
+198075,31/10/21 06:02,false,Statistics
+198075,31/10/21 07:35,true,Vizualization
+198075,31/10/21 08:18,false,Statistics
+198075,31/10/21 08:33,false,Statistics
+198075,31/10/21 10:30,true,Statistics
+198075,31/10/21 10:35,true,Statistics
+198075,31/10/21 10:41,true,Statistics
+198075,31/10/21 11:01,false,Vizualization
+198075,31/10/21 12:39,true,Vizualization
+20260,30/10/21 15:49,true,Python
+20260,30/10/21 16:00,true,Python
+20260,30/10/21 16:25,true,Python
+20260,30/10/21 18:39,false,Python
+20260,30/10/21 19:26,false,Python
+20260,30/10/21 20:25,false,Python
+20260,30/10/21 20:48,false,Python
+20260,30/10/21 22:50,true,Python
+20260,31/10/21 00:11,false,Python
+20260,31/10/21 00:31,true,Python
+20260,31/10/21 00:45,false,Python
+20260,31/10/21 01:50,false,Python
+20260,31/10/21 04:26,false,Python
+20260,31/10/21 05:26,true,Python
+20260,31/10/21 06:43,true,Python
+20260,31/10/21 08:49,true,Python
+20260,31/10/21 09:33,true,Python
+20260,31/10/21 10:18,false,Python
+20260,31/10/21 11:14,false,Python
+20260,31/10/21 12:12,true,Python
+209368,30/10/21 13:39,false,Math
+209368,30/10/21 14:39,true,Math
+209368,30/10/21 14:45,false,Math
+209368,30/10/21 15:24,true,Math
+209368,30/10/21 16:17,false,Math
+209368,30/10/21 16:59,false,Math
+209368,30/10/21 17:38,false,Statistics
+209368,30/10/21 17:55,false,Math
+209368,30/10/21 18:15,true,Math
+209368,30/10/21 18:17,true,Math
+209368,30/10/21 18:26,false,Math
+209368,30/10/21 18:44,false,Math
+209368,30/10/21 19:07,true,Math
+209368,30/10/21 19:59,false,Math
+209368,30/10/21 21:16,false,Math
+209368,30/10/21 21:52,false,Math
+209368,30/10/21 22:27,false,Statistics
+209368,30/10/21 22:33,false,Math
+209368,31/10/21 01:04,false,Math
+209368,31/10/21 01:22,false,Math
+209368,31/10/21 01:45,true,Math
+209368,31/10/21 02:12,true,Math
+209368,31/10/21 02:17,true,Math
+209368,31/10/21 03:59,true,Math
+209368,31/10/21 03:59,false,Math
+209368,31/10/21 04:52,true,Math
+209368,31/10/21 04:56,false,Math
+209368,31/10/21 05:05,true,Math
+209368,31/10/21 05:12,true,Math
+209368,31/10/21 06:01,false,Math
+209368,31/10/21 06:45,false,Math
+209368,31/10/21 08:13,true,Math
+209368,31/10/21 08:15,true,Statistics
+209368,31/10/21 08:32,false,Math
+209368,31/10/21 08:44,true,Math
+209368,31/10/21 09:36,true,Math
+209368,31/10/21 10:04,true,Math
+209368,31/10/21 10:14,false,Statistics
+209368,31/10/21 10:39,true,Math
+209368,31/10/21 11:13,false,Math
+209368,31/10/21 11:46,true,Statistics
+209368,31/10/21 12:06,true,Math
+209368,31/10/21 12:57,true,Statistics
+215506,30/10/21 13:21,true,Python
+215506,30/10/21 13:52,true,Python
+215506,30/10/21 13:58,true,Python
+215506,30/10/21 14:06,false,Python
+215506,30/10/21 14:29,false,Python
+215506,30/10/21 14:32,true,Python
+215506,30/10/21 16:23,false,Python
+215506,30/10/21 16:50,false,Python
+215506,30/10/21 18:44,true,Python
+215506,30/10/21 19:48,false,Python
+215506,30/10/21 19:49,true,Python
+215506,30/10/21 21:42,false,Python
+215506,30/10/21 21:47,false,Python
+215506,31/10/21 00:18,true,Python
+215506,31/10/21 00:55,true,Python
+215506,31/10/21 01:10,false,Python
+215506,31/10/21 01:13,false,Python
+215506,31/10/21 01:40,true,Python
+215506,31/10/21 03:41,true,Python
+215506,31/10/21 04:01,true,Python
+215506,31/10/21 04:12,false,Python
+215506,31/10/21 04:57,false,Statistics
+215506,31/10/21 05:55,true,Python
+215506,31/10/21 06:13,false,Python
+215506,31/10/21 06:22,false,Python
+215506,31/10/21 06:28,true,Python
+215506,31/10/21 10:24,true,Python
+215506,31/10/21 10:58,false,Python
+215506,31/10/21 11:45,false,Python
+215506,31/10/21 12:13,false,Python
+219238,30/10/21 13:22,true,Python
+219238,30/10/21 13:55,true,Python
