@@ -60,6 +60,6 @@ To reproduce the analysis:
 
 ---
 
-## Authors
+## Author
 
 Artemie Țurcanu — Data Analyst.
