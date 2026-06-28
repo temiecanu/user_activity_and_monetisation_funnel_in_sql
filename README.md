@@ -75,4 +75,4 @@ To reproduce the analysis:
 
 ## Author
 
-Artemie Țurcanu — Data Analyst.
+Artemie Țurcanu — Data Analyst
