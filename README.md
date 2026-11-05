@@ -1,5 +1,7 @@
 # User Activity and Monetisation Funnel in SQL
 
+Portfolio project built to simulate real business scenario and analytical tasks I encountered in my work.
+
 ## Project Overview
 
 This SQL project explores user behaviour within an educational platform that uses a “trial-to-paid” monetisation model. The goal was to extract meaningful user engagement and monetisation metrics directly from relational data using optimised SQL queries. The results provide insights into student diligence and the effectiveness of new payment mechanics tested in an A/B experiment.
